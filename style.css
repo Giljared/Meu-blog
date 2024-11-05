@@ -1,0 +1,55 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 20px;
+    background-color: #f9f9f9;
+}
+header {
+    background-color: #541515;
+    color: #fff;
+    padding: 1rem;
+    text-align: center;
+}
+nav a {
+    color: #534bca;
+    margin: 0 10px;
+    text-decoration: none;
+    font-weight: bold;
+}
+main {
+    margin-top: 20px;
+}
+h1, h2 {
+    color: #8a8181;
+}
+article {
+    background-color: #fff;
+    padding: 1rem;
+    margin-bottom: 1rem;
+    border: 1px solid #ddd;
+}
+footer {
+    text-align: center;
+    margin-top: 20px;
+    color: #333;
+}
+/* Estilo para links de redes sociais */
+.social-media {
+    margin-top: 10px;
+    text-align: center;
+}
+.social-media a {
+    margin: 0 10px;
+    color: #19d6d6;
+    text-decoration: none;
+    font-weight: bold;
+}
+.social-media a:hover {
+    text-decoration: underline;
+}
+
